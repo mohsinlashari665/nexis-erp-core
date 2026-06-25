@@ -69,7 +69,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Application Navigation Context
-st.sidebar.markdown("<h2 style='text-align: center; color: #003366;'>🌐 Nexis ERP Pro</h2>", unsafe_allow_html=True)
+st.sidebar.markdown("<h2 style='text-align: center; color: #003366;'>🌐 Mohsin's Plaza ERP Pro</h2>", unsafe_allow_html=True)
 st.sidebar.markdown("<p style='text-align: center; color: gray;'>V2.4.0 (ACCA Compliant)</p>", unsafe_allow_html=True)
 st.sidebar.markdown("---")
 module = st.sidebar.radio("Navigate Workspace", [
